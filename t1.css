@@ -10,7 +10,8 @@ h1 {
 }
 
 form {
-  width: 500px;
+  width: 501px;
+  
   margin: 0 auto;
 }
 
@@ -59,4 +60,5 @@ button {
 
 .fa-google {
   color: #ea4335;
+
 }
